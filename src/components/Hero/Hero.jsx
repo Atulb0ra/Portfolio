@@ -10,7 +10,7 @@ function Hero() {
           <h3 className = "sub-title" data-aos = "fade-right">
             Hi, I'm <span className="primary"> Atul Bora</span>
           </h3>
-          <h1 className = "heading-1" data-aos ="fade-up">
+          <h1 className="text-[50px]" data-aos ="fade-up">
              A <span className="gradient-text">Java Fullstack</span> Developer
           </h1>
           <p className = "muted" data-aos ="fade-up" data-aos-delay = "300">

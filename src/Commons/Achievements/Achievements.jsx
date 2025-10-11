@@ -10,7 +10,7 @@ function Achievements() {
         const timeOutId = setTimeout(() =>{
             setExperience(0);
             setQuestion(1000);
-            setProject(5);
+            setProject(1);
         },1200)
 
         return () =>clearTimeout(timeOutId);
